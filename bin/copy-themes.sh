@@ -1,13 +1,8 @@
 themes=(
 	casper
-	attila
 	london
-	massively
-	bleak
-	the-shell
-	vapor
-        pico
-        lyra
+	london-lab
+  pico
 	liebling
 )
 
