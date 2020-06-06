@@ -4,6 +4,7 @@ themes=(
 	london-lab
   pico
 	liebling
+  lyra
 )
 
 for theme in "${themes[@]}"
