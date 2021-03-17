@@ -11,13 +11,14 @@
   "version": "3.2.0",
   "dependencies": {
     "casper": "github:tryghost/Casper#3.0.4",
-    "ghost": "^3.41.8",
-    "ghost-cli": "^1.15.3",
+    "ghost": "^4.0.1",
+    "ghost-cli": "^1.16.2",
     "ghost-storage-adapter-s3": "^2.8.0",
     "ghost-storage-cloudinary": "^2.1.4",
     "liebling": "github:snathjr/liebling",
     "london": "github:tryghost/london#1.0.0",
     "london-lab": "github:matthewspear/london",
+    "london-labs": "github:matthewspear/london",
     "lyra": "github:tryghost/lyra",
     "mysql": "^2.18.1",
     "pico": "github:tryghost/pico"
