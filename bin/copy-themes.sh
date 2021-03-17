@@ -2,9 +2,9 @@ themes=(
 	casper
 	london
 	london-lab
-  pico
+    pico
 	liebling
-  lyra
+    lyra
 )
 
 for theme in "${themes[@]}"
